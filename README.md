@@ -39,21 +39,18 @@ A real-time multiplayer Chess Game built using **Node.js**, **Express.js**, **So
 
 
 ## 📂 Project Structure
-Chess/
-│
-├── public/
-│   ├── css/
+Chess
+├── public
+│   ├── css
 │   │   └── style.css
-│   │
-│   └── js/
+│   └── js
 │       └── chessgame.js
-│
-├── views/
+├── views
 │   └── index.ejs
-│
 ├── app.js
 ├── package.json
-└── README.md
+├── package-lock.json
+└── .gitignore
 
 
 ## ⚙️ Installation
