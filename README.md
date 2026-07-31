@@ -6,7 +6,7 @@ A real-time multiplayer Chess Game built using **Node.js**, **Express.js**, **So
 
 ## 🚀 Live Demo
 
-🔗 https://your-render-url.onrender.com
+🔗https://chess-g2f6.onrender.com
 
 ---
 
